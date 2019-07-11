@@ -1,0 +1,6 @@
+/Users/jamesdockery/Projects/Lab2GC.net/Lab2GC.net/bin/Debug/Lab2GC.net.exe
+/Users/jamesdockery/Projects/Lab2GC.net/Lab2GC.net/bin/Debug/Lab2GC.net.pdb
+/Users/jamesdockery/Projects/Lab2GC.net/Lab2GC.net/obj/x86/Debug/Lab2GC.net.csprojAssemblyReference.cache
+/Users/jamesdockery/Projects/Lab2GC.net/Lab2GC.net/obj/x86/Debug/Lab2GC.net.csproj.CoreCompileInputs.cache
+/Users/jamesdockery/Projects/Lab2GC.net/Lab2GC.net/obj/x86/Debug/Lab2GC.net.exe
+/Users/jamesdockery/Projects/Lab2GC.net/Lab2GC.net/obj/x86/Debug/Lab2GC.net.pdb
